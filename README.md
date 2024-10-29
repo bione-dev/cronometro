@@ -1,5 +1,3 @@
-Claro! Aqui está a explicação do código e o modelo de README em um único texto:
-
 ---
 
 ### Explicação do Código
